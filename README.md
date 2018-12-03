@@ -1,1 +1,1 @@
-# pragmatic-charp-dotnet-course-oct2018-lecture-08
+# Pragmatic C# and .NET Course October 2018 Lecture 08
